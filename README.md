@@ -1,5 +1,5 @@
 # 💫 About Me:
-<br>> Junior Odoo Developer | Python Developer | ERP Customization & Automation Enthusiast<br><br>Or a stronger LinkedIn-style version:<br><br>> Odoo Developer with hands-on experience in Python, Odoo customization, and ERP solutions. Interested in backend development, automation, and building scalable business applications. Continuously learning and improving technical skills in software engineering and version control using GitHub.<br>
+<br><br>> Odoo Developer with hands-on experience in Python, Odoo customization, and ERP solutions. Interested in backend development, automation, and building scalable business applications. Continuously learning and improving technical skills in software engineering and version control using GitHub.<br>
 
 
 # 💻 Tech Stack:
